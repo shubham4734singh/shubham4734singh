@@ -1,17 +1,20 @@
-name: Generate Snake Animation
+name: 🐍 Generate Snake Animation (Pro)
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # Runs daily at 12:00 AM UTC
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate_snake:
+    name: Generate Contribution Snake
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate the snake
+    steps:
+      - name: ⬇️ Checkout main branch
+        uses: actions/checkout@v3
+
+      - name: 🐍 Generate Snake SVGs (Dark & Light)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: shubham4734singh
@@ -19,14 +22,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
 
-      - name: Push to output branch
+      - name: 🔧 Setup Git
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git fetch
+          git config --global user.name "Shubham Singh"
+          git config --global user.email "shubhamsingh9974525390@gmail.com"
+
+      - name: 🚀 Deploy SVGs to output branch
+        run: |
+          git fetch origin
           git switch output || git switch -c output
-          mkdir -p dist
+
           cp dist/github-contribution-grid-snake*.svg .
           git add *.svg
-          git commit -m "Generate contribution snake" || echo "No changes"
+          git commit -m "🐍 Auto-update snake contributions [skip ci]" || echo "No changes"
           git push origin output
