@@ -157,12 +157,15 @@ const shubham = {
 <img src="https://img.shields.io/badge/Rooms-73%20Completed-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Rooms Completed">
 <img src="https://img.shields.io/badge/Badges-9%20Earned-yellow?style=for-the-badge&logo=medallia&logoColor=white" alt="Badges">
 
-<br><br>
+<br><!-- 🐍 GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+  </picture>
+</div>
 
-<!-- GitHub Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/shubham4734singh/shubham4734singh/output/github-contribution-grid-snake-dark.svg)
-
-<br>
   
 ![Profile Views](https://komarev.com/ghpvc/?username=shubham4734singh&color=00D9FF&style=for-the-badge)
 [![Stars](https://img.shields.io/github/stars/shubham4734singh?style=for-the-badge&color=00D9FF)](https://github.com/shubham4734singh)
