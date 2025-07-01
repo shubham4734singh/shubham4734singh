@@ -38,7 +38,7 @@ const shubham = {
 }
 ```
 
-- 🎓 **Cybersecurity Student & Web Security Specialist:** Mastering the art of ethical hacking
+- 🎓 **Cybersecurity Student:** Mastering the art of ethical hacking
 - 🚩 **TryHackMe Top 3% Player:** Ranked #43041 with 73 rooms completed and 9 badges earned
 - 🌐 **Web Security Focus:** Specializing in OWASP Top 10, SQL injection, XSS, and web app pentesting
 - 🔍 **Currently Learning:** Advanced web exploitation techniques and bug bounty methodologies
@@ -75,7 +75,6 @@ const shubham = {
 ### 🔍 Analysis & Documentation
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ### 🔧 Development Tools
