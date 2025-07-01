@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
+    - cron: "0 0 * * *"  # Every day at midnight
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
           target_branch: output
           build_dir: .
           commit_message: "Generate contribution snake"
-          user_name: Shubham Singh
-          user_email: shubhamsingh9974525390@gmail.com
+          author: "Shubham Singh <shubhamsingh9974525390@gmail.com>"
+          committer: "Shubham Singh <shubhamsingh9974525390@gmail.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
