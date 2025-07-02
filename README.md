@@ -88,15 +88,24 @@ const shubham = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-[![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham4734singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=shubham4734singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="Shubham's GitHub Stats" />
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4734singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham4734singh&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shubham4734singh&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=shubham4734singh&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  </a>
+</p>
 
-</div>
 
 ---
 
