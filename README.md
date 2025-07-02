@@ -102,8 +102,7 @@ const shubham = {
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=shubham4734singh&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff%22%20alt=%22GitHub%20Streak
-" />
+    <img src="https://streak-stats.demolab.com?user=shubham4734singh&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </a>
 </p>
 
