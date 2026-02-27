@@ -8,11 +8,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-shubhamcybersky.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhamcybersky.in/)
 <br/>
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2021401-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cybersky)
-[![Top 2%](https://img.shields.io/badge/Top-2%25-brightgreen?style=for-the-badge&logo=target&logoColor=white)](https://tryhackme.com/p/cybersky)
-[![Rooms](https://img.shields.io/badge/Rooms-167%20Completed-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://tryhackme.com/p/cybersky)
-[![Badges](https://img.shields.io/badge/Badges-24%20Earned-yellow?style=for-the-badge&logo=medallia&logoColor=white)](https://tryhackme.com/p/cybersky)
-[![Streak](https://img.shields.io/badge/Streak-89%20Days%20🔥-orange?style=for-the-badge)](https://tryhackme.com/p/cybersky)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2021401-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.cybersky)
+[![Top 2%](https://img.shields.io/badge/Top-2%25-brightgreen?style=for-the-badge&logo=target&logoColor=white)](https://tryhackme.com/p/.cybersky)
+[![Rooms](https://img.shields.io/badge/Rooms-167%20Completed-blue?style=for-the-badge&logo=checkmarx&logoColor=white)](https://tryhackme.com/p/.cybersky)
+[![Badges](https://img.shields.io/badge/Badges-24%20Earned-yellow?style=for-the-badge&logo=medallia&logoColor=white)](https://tryhackme.com/p/.cybersky)
+[![Streak](https://img.shields.io/badge/Streak-89%20Days%20🔥-orange?style=for-the-badge)](https://tryhackme.com/p/.cybersky)
 
 </div>
 
@@ -35,7 +35,7 @@ const shubham = {
     location: "Vadodara, Gujarat, India 🇮🇳",
     role: "Cybersecurity Student @ Parul University (B.Tech, 2023–Present)",
     tryhackme: {
-        username: "cybersky",
+        username: ".cybersky",
         rank: 21401,
         percentile: "Top 2%",
         roomsCompleted: 167,
@@ -187,7 +187,7 @@ A tool to analyze and monitor system/app permissions, flagging sensitive access 
 [![Email](https://img.shields.io/badge/Email-shubham.cybersky%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubham.cybersky@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shubham%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham4734singh/)
 [![GitHub](https://img.shields.io/badge/GitHub-shubham4734singh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubham4734singh)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-cybersky-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/cybersky)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-.cybersky-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.cybersky)
 [![Medium](https://img.shields.io/badge/Medium-%40shubham.cybersky-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@shubham.cybersky)
 
 </div>
