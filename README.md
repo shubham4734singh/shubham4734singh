@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Red+Team+%7C+Web+App+Pentester;TryHackMe+Top+2%25+%7C+Rank+%2321401;167+Rooms+%7C+24+Badges+%7C+89+Day+Streak;CTF+Player+%7C+Bug+Hunter+in+Training)
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamcybersky.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhamcybersky.in/)
+#[![Portfolio](https://img.shields.io/badge/Portfolio-shubhamcybersky.in-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shubhamcybersky.in/)
 <br/>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Rank%2021401-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/.cybersky)
